@@ -29,8 +29,8 @@ Please keep the below list sorted in ascending order.
 | Samzong Lu | @SAMZONG | DaoCloud | karmada-io/website/i18n/ |
 | Shiyi Xie | @GitHubxsy | Huawei | karmada-io/community |
 | Tiecheng Shen | @Poor12 | Huawei | 1. karmada-io/karmada/charts/<br>2. karmada-io/karmada/operator/<br>3. karmada-io/karmada/pkg/metricsadapter/<br>... |
-| Weicheng Lai | @seanlaii | Bloomberg | karmada-io/karmada/controllers, webhook |
-| Wei Jiang | @jwcesign | CloudPilot AI, Inc | 1. karmada-io/karmada/pkg/metricsadapter/<br>2. karmada-io/karmada/cmd/metrics-adapter/<br>3. karmada-io/karmada/pkg/controllers/federatedhpa |
+| Wei Jiang | @seanlaii | Bloomberg | karmada-io/karmada/controllers, webhook |
+| Weicheng Lai | @jwcesign | CloudPilot AI, Inc | 1. karmada-io/karmada/pkg/metricsadapter/<br>2. karmada-io/karmada/cmd/metrics-adapter/<br>3. karmada-io/karmada/pkg/controllers/federatedhpa |
 | Wen Chen | @calvin0327 | DaoCloud | karmada-io/karmada/operator/ |
 | Wen Jiang | @warjiang | ByteDance | karmada-io/dashboard |
 | Yan Li | @huntsman-li | Hualala | 1. karmada-io/karmada/pkg/search/<br>2. karmada-io/karmada/cmd/karmada-search/ |

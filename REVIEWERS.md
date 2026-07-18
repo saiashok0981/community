@@ -44,8 +44,8 @@ Please keep the below list sorted in ascending order.
 | Wen Chen | @calvin0327 | DaoCloud | karmada-io/karmada/operator/ |
 | Wen Jiang | @warjiang | ByteDance | karmada-io/dashboard |
 | Xinzhao Xu | @iawia002 | Kubesphere | karmada-io/karmada/pkg/resourceinterpreter/ |
-| Yangfeng Huang | @yanfeng1992 | CECloud | karmada-io/karmada/pkg/karmadactl |
-| Yan Li | @huntsman-li | Hualala | 1. karmada-io/karmada/pkg/search/<br>2. karmada-io/karmada/cmd/karmada-search/ |
+| Yan Li | @yanfeng1992 | CECloud | karmada-io/karmada/pkg/karmadactl |
+| Yangfeng Huang | @huntsman-li | Hualala | 1. karmada-io/karmada/pkg/search/<br>2. karmada-io/karmada/cmd/karmada-search/ |
 | Yasong Li | @liys87x | Hualala | 1. karmada-io/karmada/pkg/search/<br>2. karmada-io/karmada/cmd/karmada-search/ |
 | Yike Bu | @yike21 | UESTC | karmada-io/karmada/pkg/resourceinterpreter/default/thirdparty/ |
 | Yingjun Wu | @wuyingjun-lucky | China Mobile Cloud | karmada-io/karmada/pkg/karmadactl/addons/ |
